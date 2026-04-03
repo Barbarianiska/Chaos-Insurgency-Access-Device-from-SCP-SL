@@ -1,4 +1,4 @@
-25212505125859825
+25216054610372318
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2659,6 +2659,20 @@ CIAD
 0
 44
 44
+CIAD
+ESP32
+
+
+0
+44
+44
+CIAD
+FPC_44_screen
+
+
+0
+46
+45
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,

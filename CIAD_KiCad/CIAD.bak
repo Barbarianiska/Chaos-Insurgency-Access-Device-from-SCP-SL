@@ -912,7 +912,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "CIAD"
+		(property "ki_fp_filters" "CIAD:*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -921,20 +921,18 @@
 				(hide yes)
 			)
 		)
-		(symbol "ESP32_0_1"
+		(symbol "ESP32_1_1"
 			(rectangle
 				(start -5.08 10.16)
 				(end 19.05 -45.72)
 				(stroke
 					(width 0)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "ESP32_1_1"
 			(pin input line
 				(at -7.62 3.81 0)
 				(length 2.54)

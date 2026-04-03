@@ -2,3 +2,6 @@ CIAD_KiCad/CIAD-backups/
 ~*
 \#*
 _*
+CIAD_KiCad/fp-info-cache
+CIAD_KiCad/fp-lib-table
+CIAD_KiCad/sym-lib-table
